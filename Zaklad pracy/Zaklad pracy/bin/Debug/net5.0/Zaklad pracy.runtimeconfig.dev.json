@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nkaro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nkaro\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.csproj.AssemblyReference.cache
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.AssemblyInfoInputs.cache
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.AssemblyInfo.cs
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.csproj.CoreCompileInputs.cache
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.exe
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.deps.json
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.runtimeconfig.json
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.runtimeconfig.dev.json
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.dll
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\ref\Zaklad pracy.dll
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\bin\Debug\net5.0\Zaklad pracy.pdb
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.dll
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\ref\Zaklad pracy.dll
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.pdb
+C:\Studia\1 semestr\podstawy programowania cw\Zaklad pracy\Zaklad pracy\Zaklad pracy\obj\Debug\net5.0\Zaklad pracy.genruntimeconfig.cache
