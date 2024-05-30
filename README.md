@@ -1,4 +1,3 @@
 # Zaklad-Pracy
-Aplikacja na zaliczenie SAN 1 semestr Karol Namieciński, Maciej Tomasik.
+Aplikacja na zaliczenie SAN 1 semestr Karol Namieciński.
 Karol Namieciński 110534 1 semestr Informatyka dzienne.
-Maciej Tomasik 110609 1 semestr Informatyka dzienne.
